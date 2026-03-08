@@ -1,0 +1,24 @@
+/*muehehe*/
+
+/*temporary placeholder for unfinished pages:*/
+body {
+    background-color: chartreuse;
+}
+#brat {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200px;
+    text-align: center;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+}
+#go_back{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+    display: block;
+    padding: 20px;
+    color: black;
+}
