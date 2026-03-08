@@ -1,0 +1,79 @@
+/*nyehe*/
+
+body {
+  background-color: #4f6056;
+}
+
+/*default text initialization*/
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/*beninging*/
+
+#decor1 {
+    display: block;
+    margin: auto;
+    color: #3f3a37;
+    width: 1000px;
+    padding-bottom: 50px;
+}
+#title_s {
+    text-align: center;
+    color: #c5b2a4;
+}
+#title_b {
+    text-align: center;
+    color: #c5b2a4;
+}
+
+#smol {
+    display: block;
+    margin: auto;
+    width: 100px;
+}
+#decor2 {
+    display: block;
+    margin: auto;
+    color: #3f3a37;
+    width: 1000px;
+    padding-top: 80px;
+}
+
+/* homepage navigation */
+
+#home_buttons {
+    display: inline-block;
+}
+
+#abt_cont{
+    text-align: center;
+}
+#abt_button{
+    margin-top: 50px;
+    display: inline-block;
+    width: 160px;
+}
+
+#port_cont{
+    text-align: center;
+}
+#port_button{
+    display: inline-block;
+    width: 160px;
+}
+
+#proj_cont{
+    text-align: center;
+}
+#proj_button{
+    display: inline-block;
+    width: 160px;
+}
