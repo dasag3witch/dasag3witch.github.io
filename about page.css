@@ -1,1 +1,17 @@
+/*about :P*/
 
+body {
+  background-color: #4f6056;
+}
+
+/*default text initialization*/
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
